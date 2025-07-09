@@ -100,13 +100,3 @@ PushPullMerge Monitor is a full-stack application that tracks GitHub repository 
 - For production, update CORS and API URLs as needed.
 
 ---
-
-## Screenshots
-
-> _Add a screenshot of your UI here (replace the placeholder above)_
-
----
-
-## License
-
-This project is for assessment and educational purposes. 
